@@ -13,6 +13,6 @@ Tool will calculate the amount of goods sold at the different price and return t
 ToDo's later
 Create where you can do multiple trips in one instance
 
-	Example 1: User buys 2 products at A and sells one product at B and picks up another product and sells both products at C
+Example 1: User buys 2 products at A and sells one product at B and picks up another product and sells both products at C
 
-	Example 2: User buys 1 product at A sells at B and then goes from B to C with a different product (essentially won't have to reset the tool and can see total profit for trip)
+Example 2: User buys 1 product at A sells at B and then goes from B to C with a different product (essentially won't have to reset the tool and can see total profit for trip)
